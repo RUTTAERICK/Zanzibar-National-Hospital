@@ -23,9 +23,13 @@ section {
 }
 
 ul {
-    background-color: black;
+    list-style-type: none;
+    background-color: #333333;
+    color: white;
     margin: 0;
     padding: 0;
+    display: flex;
+    justify-content: center;
 }
 footer {
     background: #04028a;
